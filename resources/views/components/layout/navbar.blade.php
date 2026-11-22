@@ -1,6 +1,10 @@
 <nav class="border-b border-border px-6 py-4 flex justify-between">
     <a href="{{ url('/') }}" class="flex items-center" aria-label="Idea home">
+<<<<<<< HEAD
         <img src="{{ asset('images/idea-logo.svg') }}" alt="Idea" class="h-10 w-auto">
+=======
+        <img src="{{ asset('images/idea-logo.png') }}" alt="Idea" class="h-10 w-auto">
+>>>>>>> 7eea0cd (Creating User Authentication and Registeration manually)
     </a>
 
     <div class="flex items-center space-x-4 max-w-4xl mx-auto h-16">
